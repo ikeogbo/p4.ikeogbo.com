@@ -1,0 +1,174 @@
+body{
+background-color:#E1F0FF;
+}
+
+
+#header{
+	height: 200px;
+	background: url(../images/header.jpg) no-repeat center;
+	background-size: 900px 98px;
+	margin: -6%;
+	visibility: inherit;
+	width: 900px;
+	text-align: right;
+	display: inherit;
+	vertical-align: middle;
+	word-spacing: normal;
+	white-space: pre;
+	
+}
+
+h3 {
+	color: #5A86D5;
+
+}
+
+#breadnav{
+text-align: right;
+}
+
+#video{
+float:left;
+}
+
+img{
+
+}
+
+#carpic	li {
+	list-style-type: none;
+
+display:inline;
+}
+
+#mainarea{
+	padding-right: 30%;
+	padding-left: 30%;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	width: 900px;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+
+
+
+
+#sitenav {
+width:900px;
+margin:0 auto;
+padding:5px 0;
+background:#99CCFF;
+}
+
+ul#nav {
+font-family: Verdana;
+font-size:14px;
+list-style:none;
+margin:0 auto;
+padding:0;
+width:650px;
+overflow: auto;
+}
+
+ul#nav li {
+display:inline;
+}
+
+ul#nav li a {
+text-decoration:none;
+display: block;
+padding:2px 21px;
+background:#5A86D5;
+
+color:#eee;
+float:left;
+text-align:left;
+border-top:2px solid #003399;
+border-right:2px solid #003399;
+border-bottom:2px solid #DAEDFF;
+border-left:2px solid #DAEDFF;
+}
+
+ul#nav li a:hover {
+background:#EBF5FF;
+color:#000;
+border-top:2px solid #66CCFF;
+border-right:2px solid #66CCFF;
+border-bottom:2px solid #F6FCFF;
+border-left:2px solid #F6FCFF;
+}
+
+
+
+
+#catnav li a:link {text-decoration:none; color:black}   
+#catnav li a:visited {text-decoration:none; color:black} 
+#catnav li a:hover {background-color:gray;}   
+#catnav li a:active {text-decoration:none; color:darkred}  
+
+
+#breadnav a:link {text-decoration:none; color:black}   
+#breadnav a:visited {text-decoration:none; color:black} 
+#breadnav a:hover {color:red;text-decoration:underline;}   
+#breadnav a:active {text-decoration:none; color:darkred}  
+
+
+
+
+
+
+ul#nav li  a:link {text-decoration:none; color:black}   
+ul#nav li  a:visited {text-decoration:none; color:black}  
+ul#nav li  a:active {text-decoration:none; color:darkred} 
+
+ul {list-style-type:none;}
+
+
+#footer {text-align:center;
+	bottom:0px;}
+
+	
+#headrule{background-color: #99CCFF;
+height: 10px;
+width: 700px
+}
+
+legend{
+color:#5A86D5;}
+
+
+fieldset
+        {
+            border-color : #99CCFF;
+  
+        }
+		
+		 table{
+	border-style:solid;
+    border: 1px solid blue;
+    width: 900px;
+  }
+  table td{
+    border: 1px solid blue;
+  }
+table th{
+    border: 1px solid blue;
+  }
+
+*                               { margin: 0; padding: 0; }
+
+h2                              { color: #5A86D5; font: 30px Helvetica, Sans-Serif; margin: 0 0 10px 0; }
+#page-wrap                      { width: 500px; margin: 30px auto; position: relative; }
+
+#chatbox                      { border: 1px solid #5A86D5; margin: 0 0 15px 0; }
+#chat_container                      { height: 300px; overflow: auto; border: 1px solid #666; padding: 20px; background: white; }
+#chat_container span                 { color: #333; background: #5A86D5; padding: 4px 8px; -moz-border-radius: 5px; -webkit-border-radius: 8px; margin: 0 5px 0 0; }
+#chat_container p                    { padding: 8px 0; border-bottom: 1px solid #ccc; }
+
+#name_container                      { position: absolute; top: 12px; right: 0; color: 99CCFF; font: bold 12px "Lucida Grande", Sans-Serif; text-align: right; }   
+#name_container span                 { color: #99CCFF; }
+
+#message_container p            { float: left; color: #5A86D5; padding-top: 27px; font-size: 14px; }
+#client_send                         { border: 3px solid #99CCFF; width: 360px; padding: 10px; font: 12px "Lucida Grande", Sans-Serif; float: right; }
