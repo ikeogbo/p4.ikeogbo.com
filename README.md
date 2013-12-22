@@ -9,4 +9,6 @@ I disbled "ABOUT XYZ" and "Testimonial" buttons since they might not be required
 
 This application is 25% JavaScript.
 
+Please find my database.sql file at p4.ikeogbo.com/database.sql
+
 Tested with Chrome and FireFox.
